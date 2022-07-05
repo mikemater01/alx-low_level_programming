@@ -2,7 +2,7 @@
 
 
 /**
- * main - Entry point
+ * main - Entry poin
  *
  * Return: nothing, return void
  */
