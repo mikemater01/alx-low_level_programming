@@ -1,1 +1,1 @@
-in this project, I will be writting some C code lines on Variables, if, else, while
+This is my alx tasks on C programming (variables, if, else and while)
