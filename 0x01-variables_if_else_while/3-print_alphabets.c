@@ -4,8 +4,8 @@
 * main - This code prints the alphabets in lowercase and uppercase
 * Return: always 0, successful.
 */
-int main(void)
-{
+
+int main(void) {
 	char ch;
 
 	for (ch = 'a'; ch <= 'z'; ch++)

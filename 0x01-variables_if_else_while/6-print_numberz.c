@@ -3,9 +3,9 @@
 /**
 * main - This code prints numbers 1 - 10
 * Return: always 0, successful.
-*/
-int main(void)
-{
+*/ 
+
+int main(void) {
 	int x;
 
 	for (x = 48; x < 58; x++)

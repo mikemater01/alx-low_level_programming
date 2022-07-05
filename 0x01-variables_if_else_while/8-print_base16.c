@@ -5,8 +5,8 @@
 * followed by a new line
 * Return: Always 0 (Success)
 */
-int main(void)
-{
+
+int main(void) { 	
 	int n;
 	char ch;
 
@@ -19,5 +19,6 @@ int main(void)
 	putchar(ch);
 	}
 	putchar('\n');
+
 	return (0);
 }
