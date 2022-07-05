@@ -6,8 +6,8 @@
 * main - the program returns the last digit of int n
 *Return: always 0, successful.
 */
-int main(void)
-{
+
+int main(void) {
 	int n;
 
 	srand(time(0));
