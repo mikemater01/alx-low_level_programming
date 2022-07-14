@@ -1,1 +1,1 @@
-My Read me File
+THis is a file with more tasks on pointers, arrays and strings
