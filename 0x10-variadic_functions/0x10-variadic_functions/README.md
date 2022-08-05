@@ -1,1 +1,0 @@
-**C IS FUN - Variadic Functions**
