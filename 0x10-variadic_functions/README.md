@@ -1,1 +1,1 @@
-**C IS FUN - Variadic Functions**
+***Variadic Functions in C proramming***
