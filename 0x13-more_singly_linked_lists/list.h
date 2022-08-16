@@ -9,8 +9,7 @@
  * @n: integer
  * @next: points to the next node
  *
- * Description: singly linked list node structure
- * for Alx project
+ * Description: C programming: singly linked list
  */
 typedef struct listint_s
 {
