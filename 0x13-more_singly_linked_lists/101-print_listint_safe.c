@@ -1,10 +1,10 @@
 #include "lists.h"
 
 /**
- * print_listint_safe - prints a linked list
+ * free_listp - frees a linked list
  * @head: head of a linked list
  *
- * Return: Returns the number of nodes in the list
+ * Return: Returns nothing
  */
 void free_listp(listp_t **head)
 {
