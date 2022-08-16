@@ -6,7 +6,7 @@
  * @idx: index of the newly added node
  * @n: integer element
  *
- * Return: returns the address of the newesr node. NUll if false
+ * Return: returns the address of the newesr node. NULL if false
  */
 listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 {
