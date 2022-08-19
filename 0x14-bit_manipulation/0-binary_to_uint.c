@@ -2,9 +2,9 @@
 
 /**
  * binary_to_unit - Converts a binary number to an unsigned int
- * @b: points to a string of 0 and 1 chars
+ * @b: points to a string of 0s and 1s 
  *
- * Return: unsigned int.
+ * Return: unsigned int
  */
 unsigned int binary_to_uint(const char *b)
 {
