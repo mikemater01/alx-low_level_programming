@@ -3,11 +3,11 @@
 #include <stdlib.h>
 
 /**
- * read_textfile - reads a text file and prints it to thee POSIX standard output
- * @filename: The path of the file to be read
- * @letters: number of letters it should read and write
+ * read_textfile - reads a text file and prints the letters
+ * @filename: filename.
+ * @letters: number of letters printed
  *
- * Return: 0 if filename os NULL
+ * Return: number of letters printed. If fails, return 0.
  */
 ssize_t read_textfile(const char *filename, size_t letters)
 {
