@@ -1,12 +1,11 @@
-#include "main.h"
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdlib.h>
 
 /**
  * read_textfile - reads a text file and prints it to thee POSIX standard output
- * filename: The path of the file to be read
- * letters: number of letters it should read and write
+ * @filename: The path of the file to be read
+ * @letters: number of letters it should read and write
  *
  * Return: 0 if filename os NULL
  */
