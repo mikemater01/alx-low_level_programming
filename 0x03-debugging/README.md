@@ -1,1 +1,1 @@
-My 0x03-debugging alx tasks; Programming in C
+0x03-debugging alx tasks; Programming in C
