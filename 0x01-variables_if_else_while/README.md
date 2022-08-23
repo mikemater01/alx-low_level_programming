@@ -1,1 +1,1 @@
-This is my alx tasks on C programming (variables, if, else and while)
+This directory contains tasks on variables, if, else and while in C
