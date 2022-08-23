@@ -1,1 +1,1 @@
-This is a new directory
+HELLO WORLD TASK IN C
